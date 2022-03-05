@@ -7,8 +7,6 @@
 
 <h3> 👨🏻 About Me </h3>
 
-
-
 - 🤔 &nbsp; Exploring funny technologies.
 
 - 🌱 &nbsp; Learning about Adversarial Machine Learning.
@@ -16,8 +14,6 @@
 
 
 <h3>🛠 Tech Stack</h3>
-
-
 
 - 💻 &nbsp; Python | C++ | C | MATLAB
 
@@ -27,7 +23,12 @@
 
 -->
 
----
+
+<style>
+hr:nth-of-type(1) {
+  border-width: 1px 0 0 0 !important;
+}
+</style>
 
 
 <h3> 📈 Some Stats </h3>
@@ -46,7 +47,12 @@
 <br><br>
 
 
----
+<style>
+hr:nth-of-type(1) {
+  border-width: 1px 0 0 0 !important;
+}
+</style>
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -57,11 +63,15 @@
 
 </p>
 
-<hr>
+
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=JintaoYang18.JintaoYang18)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
-<hr>
+<style>
+hr:nth-of-type(1) {
+  border-width: 1px 0 0 0 !important;
+}
+</style>
 
 
