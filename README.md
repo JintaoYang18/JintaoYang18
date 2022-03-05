@@ -46,7 +46,7 @@
 
 <p align="left">
   <a href="mailto:colsonyang212@gmail.com">
-    <img src="https://github.com/JintaoYang18/JintaoYang18/blob/main/gmail.png" height="10px" style="margin: 5px;" />
+    <img src="https://github.com/JintaoYang18/JintaoYang18/blob/main/gmail.png" height="20px" style="margin: 5px;" />
   </a>
 </p>
 
