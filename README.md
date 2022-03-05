@@ -32,8 +32,6 @@
 
 <h3>📈 Some Stats</h3>
 
-<br><br>
- -->
  
 <p align="center">
 
