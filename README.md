@@ -44,18 +44,11 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
   <a href="mailto:colsonyang212@gmail.com">
     <img src="https://github.com/JintaoYang18/JintaoYang18/blob/main/gmail.png" height="10px" style="margin: 5px;" />
   </a>
 </p>
-
-<p align="center">
-
- <a href="mailto:colsonyang212@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-colsonyang212@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
-
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=JintaoYang18.JintaoYang18)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
