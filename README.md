@@ -2,11 +2,8 @@
 
 # Hi there <img src="https://tenor.com/bEAlI.gif" width="40px">  I'm Yang. 
 
-<!--
-**JintaoYang18/JintaoYang18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="230px">
 
-
-<img align='right' src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
