@@ -24,12 +24,9 @@
 -->
 
 
-<style>
-hr:nth-of-type(1) {
-  border-width: 1px 0 0 0 !important;
-}
-</style>
+---
 
+-
 
 <h3> 📈 Some Stats </h3>
 
@@ -47,11 +44,9 @@ hr:nth-of-type(1) {
 <br><br>
 
 
-<style>
-hr:nth-of-type(1) {
-  border-width: 1px 0 0 0 !important;
-}
-</style>
+***
+
+*
 
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -68,10 +63,7 @@ hr:nth-of-type(1) {
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=JintaoYang18.JintaoYang18)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
-<style>
-hr:nth-of-type(1) {
-  border-width: 1px 0 0 0 !important;
-}
-</style>
++++
 
++
 
