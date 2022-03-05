@@ -74,12 +74,14 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
-<p align="center">
-<a href="mailto:colsonyang212@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-colsonyang212@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-<hr>
----
 
+<p align="center">
+
+ <a href="mailto:colsonyang212@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-colsonyang212@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+</p>
+
+<hr>
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=JintaoYang18.JintaoYang18)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
