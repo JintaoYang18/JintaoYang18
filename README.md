@@ -65,6 +65,7 @@
 
 <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JintaoYang18&show_icons=true" />
 
+<br>
 </p>
 <br>
 <hr>
@@ -73,7 +74,6 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<br>
 
 <p align="center">
 
@@ -85,9 +85,7 @@
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=JintaoYang18.JintaoYang18)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
-
-
-
+<br>
 
 <hr>
 
