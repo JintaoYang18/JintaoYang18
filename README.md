@@ -67,7 +67,6 @@
 
 </p>
 
-
 <hr>
 
 
@@ -75,8 +74,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
-
-
 
 <p align="center">
 
@@ -91,7 +88,7 @@
 </p>
 
 
-
+---
 
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=JintaoYang18.JintaoYang18)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
