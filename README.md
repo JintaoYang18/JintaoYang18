@@ -1,3 +1,5 @@
+![Welcome!](https://github.com/JintaoYang18/JintaoYang18/blob/main/yang-github-page.jpg)
+
 ### Hi there 👋<h2> I'm Yang. </h2>
 
 <!--
