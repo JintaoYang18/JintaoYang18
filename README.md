@@ -1,12 +1,12 @@
 ![Welcome!](https://github.com/JintaoYang18/JintaoYang18/blob/main/yang-github-page.jpg)
 
-# Hi there <img src="https://github.com/JintaoYang18/JintaoYang18/blob/main/7F5y.gif" width="29px">  I'm Yang. 
+# Hi there <img src="https://tenor.com/bEAlI.gif" width="40px">  I'm Yang. 
 
 <!--
 **JintaoYang18/JintaoYang18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
