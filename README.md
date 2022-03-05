@@ -5,17 +5,13 @@
 <img align='right' src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="230px">
 
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻 About Me </h3>
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring funny technologies.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
-
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- 🌱 &nbsp; Learning about Adversarial Machine Learning.
 
 
 
@@ -23,27 +19,14 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 💻 &nbsp; Python | C++ | C | MATLAB
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🔧 &nbsp; Git | Markdown 
 
 -->
 
-
-
-<h3>🛠 To Learn</h3>
-
-<!-- - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask -->
-
-<hr>
 
 
 
