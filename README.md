@@ -33,9 +33,12 @@
 <br/><br/>
 
 
+<h3>📈 Some Stats</h3>
+
+
 <!-- <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JintaoYang18&show_icons=true)](https://github.com/JintaoYang18)
+[![Yang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JintaoYang18&show_icons=true)](https://github.com/JintaoYang18)
 
 <br/>
 
