@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="230px">
 
 
-## 👨🏻 About Me
+<h3> 👨🏻 About Me </h3>
 
 
 
@@ -27,10 +27,10 @@
 
 -->
 
-<hr>
+---
 
 
-## 📈 Some Stats
+<h3> 📈 Some Stats </h3>
 
  
 <p align="center">
@@ -45,11 +45,10 @@
 
 <br><br>
 
-<hr>
 
+---
 
-
-## 🤝🏻 Connect with Me
+<h3> 🤝🏻 Connect with Me </h3>
 
 
 <p align="center">
