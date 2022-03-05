@@ -30,9 +30,6 @@
 <hr>
 
 
-<br/><br/>
-
-
 <h3>📈 Some Stats</h3>
 
 
