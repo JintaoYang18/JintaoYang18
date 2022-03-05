@@ -1,6 +1,6 @@
 ![Welcome!](https://github.com/JintaoYang18/JintaoYang18/blob/main/yang-github-page.jpg)
 
-# Hi there <img src="https://tenor.com/bEAlI.gif" width="40px">  I'm Yang. 
+# Hi there <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px">  I'm Yang. 
 
 <img align='right' src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="230px">
 
