@@ -61,13 +61,17 @@
  -->
  
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JintaoYang18&show_icons=true" />
 
-<img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JintaoYang18&show_icons=true" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=JintaoYang18&show_icons=true" />
 
-<br>
+ <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JintaoYang18&show_icons=true" />
+
+ <br>
+ 
 </p>
+
 <br>
+
 <hr>
 
 
