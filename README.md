@@ -1,6 +1,6 @@
 ![Welcome!](https://github.com/JintaoYang18/JintaoYang18/blob/main/yang-github-page.jpg)
 
-# Hi there 👋  I'm Yang. 
+# Hi there <img src="https://github.com/JintaoYang18/JintaoYang18/blob/main/7F5y.gif" width="29px">  I'm Yang. 
 
 <!--
 **JintaoYang18/JintaoYang18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
