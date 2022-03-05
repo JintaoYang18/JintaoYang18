@@ -12,7 +12,6 @@
 - 🌱 &nbsp; Learning about Adversarial Machine Learning.
 
 
-
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C++ | C | MATLAB
@@ -24,12 +23,9 @@
 -->
 
 
----
-
--
+<hr>
 
 <h3> 📈 Some Stats </h3>
-
  
 <p align="center">
 
@@ -44,13 +40,9 @@
 <br><br>
 
 
-***
-
-*
-
+<hr>
 
 <h3> 🤝🏻 Connect with Me </h3>
-
 
 <p align="center">
 
@@ -59,11 +51,7 @@
 </p>
 
 
-
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=JintaoYang18.JintaoYang18)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
-+++
-
-+
-
+<hr>
