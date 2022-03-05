@@ -63,7 +63,7 @@
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JintaoYang18&show_icons=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JintaoYang18&show_icons=true" />
+<img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JintaoYang18&show_icons=true" />
 
 </p>
 
@@ -74,20 +74,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
-
 <p align="center">
-
-<!-- <a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a> -->
-
-<!-- <a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a> -->
-
-<!-- <a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a> -->
-
 <a href="mailto:colsonyang212@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-colsonyang212@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
 </p>
-
-
+<hr>
 ---
 
 
