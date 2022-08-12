@@ -50,7 +50,7 @@
   </a>
 </p>
 
-<a href="https://clustrmaps.com/site/1bpts"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=vJk8vQ3o7N71i0cRgkSBKR14LdwxDUGTRVGpHdZQbRE&cl=ffffff" /></a>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vJk8vQ3o7N71i0cRgkSBKR14LdwxDUGTRVGpHdZQbRE&cl=ffffff&w=a"></script>
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=JintaoYang18.JintaoYang18)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
